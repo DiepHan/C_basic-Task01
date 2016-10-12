@@ -30,10 +30,11 @@
 >- ** **CHỮ ĐẬM**  **   
 
 >- *CHỮ NGHIÊNG * 
-##### 
-4.LINK
+
+##### 4.LINK
  
-Một liên kết được tạo bởi cặp móc nhọn bao quanh  
+Một liên kết được tạo bởi cặp móc nhọn bao quanh 
+![link](Zalo_ScreenShot_12_10_2016_136773.png)
  
 Vd: <dillinger.io>
 
