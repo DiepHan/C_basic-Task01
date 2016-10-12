@@ -39,7 +39,7 @@ Vd: <dillinger.io>
 
 ##### 5.HÌNH ẢNH
 
- ![](Zalo_ScreenShot_12_10_2016_1319182)
+ ![](Zalo_ScreenShot_12_10_2016_1319182.png)
  
 ##### 6.BẢNG
  ![](Zalo_ScreenShot_12_10_2016_1321395.png)
