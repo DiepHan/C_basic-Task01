@@ -24,12 +24,13 @@
 
 ##### 2.XUỐNG DÒNG
 
-> - Thêm 2 dấu cách ở cuối dòng
+> - Thêm 2 dấu cách ở cuối dòng  
+
 ##### 3.CHỮ ĐẬM , NGHIÊNG 
 
 >- ** **CHỮ ĐẬM**  **   
 
->- *CHỮ NGHIÊNG * 
+>-*  *CHỮ NGHIÊNG * * 
 
 ##### 4.LINK
  
