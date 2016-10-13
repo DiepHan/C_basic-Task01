@@ -59,7 +59,7 @@
 
 ##### 7.MÀU  
  `<span style="color: red">text`  
-
+ ---
 <span style="color: green">text  
 
 ##### 8.CHÚ THÍCH  
