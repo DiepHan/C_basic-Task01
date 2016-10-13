@@ -34,7 +34,7 @@
 >- \**CHỮ NGHIÊNG*\*
 
 ##### 4.LINK
- Vd: <dillinger.io>  
+ Vd: \<dillinger.io>\ 
     <http://google.com>
 
 ##### 5.HÌNH ẢNH
@@ -48,8 +48,8 @@
      | a        | b         | --        | --        |       
      | --       | --        | --        | --        |       
     
- 
- 
+
+
  | bảng     | cột 1     | cột 2     | cột 3     |       
 |------ |-------    |-------    |-------    |   
 | a     | b         | --        | --        |       
