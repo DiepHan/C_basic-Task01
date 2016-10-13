@@ -57,22 +57,23 @@
 | --    | --        | --        | --        |       
 
 
-##### 7.MÀU  
- `<span style="color: red">text`  
- ---
- <span style="color: green">text  
 
-##### 8.CHÚ THÍCH  
+##### 7.CHÚ THÍCH  
     chú thích[^1]
     [^1]: VD  
     
 chú thích[^1]
 [^1]: VD  
-##### 9.CODE  
+##### 8.CODE  
     ~~~tên ngôn ngữ  
 -------
 ~~~C  
 printf("Hello, World! \n");  
+~~~
+
+#####... [wikipedia][1]và [github][2]  
+[1]:https://vi.wikipedia.org/wiki/Markdown  
+[2]:https://github.com/nguyennv/kohana-vietnamese-guide/blob/master/userguide/guide/userguide/markdown.md  
 
     
     
