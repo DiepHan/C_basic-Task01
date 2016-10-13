@@ -1,4 +1,4 @@
-##### 1.TIÊU ĐỀ
+
 ### MARKDOW LÀ GÌ
 
 - Là ngôn ngữ đánh dấu với cú pháp văn bản thô
@@ -53,9 +53,12 @@
  |--|--|--|--|  
  |a|b|--|--|  
  |--|--|--|--|  
+
  ##### 7.MÀU  
  `<span style="color: red">text`  
- <span style="color: green">text 
+
+ <span style="color: green">text  
+ 
   ##### 8.CHÚ THÍCH  
     chú thích[^1]
     [^1]: VD  
