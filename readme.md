@@ -31,7 +31,7 @@
 
 >- ** **CHỮ ĐẬM**  **   
 
->- *\*CHỮ NGHIÊNG*\*
+>- \**CHỮ NGHIÊNG*\*
 
 ##### 4.LINK
  Vd: <dillinger.io>  
@@ -48,18 +48,17 @@
      |a|b|--|--|  
      |--|--|--|--| 
  
- 
- |bảng|cột 1|cột 2|cột 3|  
- |--|--|--|--|  
- |a|b|--|--|  
- |--|--|--|--|  
+|bảng|cột 1|cột 2|cột 3|  
+|--|--|--|--|  
+|a|b|--|--|  
+|--|--|--|--|  
 
- ##### 7.MÀU  
+##### 7.MÀU  
  `<span style="color: red">text`  
 
- <span style="color: green">text  
- 
-  ##### 8.CHÚ THÍCH  
+<span style="color: green">text  
+
+##### 8.CHÚ THÍCH  
     chú thích[^1]
     [^1]: VD  
     
