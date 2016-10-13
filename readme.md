@@ -1,3 +1,4 @@
+##### 1.TIÊU ĐỀ
 ### MARKDOW LÀ GÌ
 
 - Là ngôn ngữ đánh dấu với cú pháp văn bản thô
@@ -30,19 +31,39 @@
 
 >- ** **CHỮ ĐẬM**  **   
 
->-*  _*CHỮ NGHIÊNG*_
+>- *\*CHỮ NGHIÊNG*\*
 
 ##### 4.LINK
- 
-
-![link](Zalo_ScreenShot_12_10_2016_136773.png)
- 
-Vd: < dillinger.io >
-<http://google.com>
+ Vd: <dillinger.io>  
+    <http://google.com>
 
 ##### 5.HÌNH ẢNH
+`![mô tả](abc.png)`  
+![mô tả](67997_20140412070200.jpg)
 
- ![](Zalo_ScreenShot_12_10_2016_1319182.png)
  
-##### 6.BẢNG
- ![](Zalo_ScreenShot_12_10_2016_1321395.png)
+##### 6.BẢNG  
+     |bảng|cột 1|cột 2|cột 3|
+     |--|--|--|--|  
+     |a|b|--|--|  
+     |--|--|--|--| 
+ 
+ 
+ |bảng|cột 1|cột 2|cột 3|  
+ |--|--|--|--|  
+ |a|b|--|--|  
+ |--|--|--|--|  
+ ##### 7.MÀU  
+ `<span style="color: red">text`  
+ <span style="color: green">text 
+  ##### 8.CHÚ THÍCH  
+    chú thích[^1]
+    [^1]: VD  
+    
+chú thích[^1]
+[^1]: VD   
+    
+    
+ 
+ 
+ 
